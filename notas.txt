@@ -1,0 +1,2 @@
+npm i cors
+https://www.npmjs.com/package/cors
